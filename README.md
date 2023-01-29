@@ -1,4 +1,4 @@
-# Zubehoerschale-OpenScad
+# Zubehoerschale-OpenSCAD
 # Es wird keine Gewährleistung auf Stabilität gegeben!
 ## Sourcecode für Zubehoerschale
 ![werkzeugschale](https://user-images.githubusercontent.com/105192630/215337432-d6f5db29-d451-475f-aac7-1ae35efd8660.png)
